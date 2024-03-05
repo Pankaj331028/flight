@@ -1,0 +1,959 @@
+/* media Query start */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media(max-width:1199.98px) {
+    .AutomationCourse h1 {
+        color: #385723;
+        font-weight: 700;
+        font-size: 35px;
+    }
+
+    .form-group.text-center button {
+        font-size: 18px;
+    }
+
+    .label-right {
+        width: 159px;
+        text-align: left;
+    }
+
+    .topinput {
+        margin-bottom: 8px;
+    }
+
+    .textareaaddress {
+        width: 100% !important;
+    }
+
+    .check-radio {
+        display: block;
+    }
+
+    select.form-select {
+        margin: 5px 0px;
+    }
+
+    .button-rowst {
+        display: flex;
+        justify-content: left;
+    }
+
+    .buttons-double {
+        margin-left: 31px;
+    }
+}
+
+@media(max-width:991.98px) {
+    .tab .nav-tabs {
+        padding: 0 0px 0px;
+        position: relative;
+        margin: 0px;
+    }
+
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:focus,
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:focus,
+    .tab .nav-tabs li.active a:hover {
+        font-size: 22px;
+    }
+
+    .tab .nav-tabs li a {
+        font-size: 22px;
+    }
+
+    .AutomationCourse h1 {
+        color: #385723;
+        font-weight: 700;
+        font-size: 26px;
+    }
+
+    .AutomationCourse p {
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .form-horizontal .form-control {
+        height: 40px;
+        border: none;
+        border-radius: 1px;
+        padding: 0 10px;
+        font-size: 14px;
+        background: none;
+        color: #736f6f;
+        border: 1px solid #b7b7b7;
+        transition: all 0.3s ease 0s;
+    }
+
+    .form-check.defaultCheck {
+        position: relative;
+        display: block;
+        padding-left: 1.25rem;
+        font-weight: bold;
+        color: #3ab54b;
+        font-size: 15px;
+    }
+
+    .from.row.terms {
+        display: flex;
+        justify-content: center;
+        padding: 0px 17px;
+        box-sizing: border-box;
+    }
+
+    .form-horizontal .form-group {
+        margin: 0 0 15px 0;
+        position: relative;
+        padding: 0px 4px;
+    }
+
+    .form-group.col-md-6.sendOtp button {
+        border-radius: 50px;
+        float: right;
+        padding: 3px 13px;
+        border: 0px;
+        color: #fff;
+        font-weight: 600;
+        background: #3ab54b;
+        transition: background-color .5s;
+    }
+
+    .form.row {
+        padding: 0px 10px;
+    }
+
+    label.radiochek {
+        font-size: 14px;
+    }
+
+    .form-check.hobby label {
+        font-weight: normal;
+        font-size: 14px;
+    }
+
+    .form.row.der {
+        padding: 0px 15px;
+        box-sizing: border-box;
+    }
+
+    .form-group.text-center button {
+        font-size: 16px;
+    }
+
+    .from.row.terms {
+        justify-content: left;
+    }
+    .span-0 .select2 {
+        padding: 0 !important;
+    }
+}
+
+@media(max-width:767.98px) {
+    .tab {
+        padding: 25px 25px 25px;
+        margin-top: -185px;
+        background: #ffffff;
+        border-radius: 0;
+        box-shadow: 0px 0px 9px 1px #767676;
+        position: relative;
+    }
+
+    .form-horizontal .form-group {
+        margin: 0 0 15px 0;
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .col-md-5.tabssignup {
+        margin-top: -39px;
+    }
+
+    .from.row.terms {
+        display: flex;
+        justify-content: left;
+        padding: 0px 17px;
+        box-sizing: border-box;
+    }
+
+    .form-group.text-center button {
+        font-size: 16px;
+    }
+
+    .form-bg.dialogBOx {
+        padding: 30px 0px;
+        box-sizing: border-box;
+        background: #f0f2f5;
+    }
+
+    .AutomationCourse h1 {
+        color: #385723;
+        font-weight: 700;
+        font-size: 24px;
+    }
+
+    .AutomationCourse p {
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    h5#exampleModalLongTitlesign {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    a.forgetPassword {
+        display: block;
+        width: 100%;
+    }
+
+    h5#exampleModalLabelforget {
+        font-size: 20px;
+    }
+
+    img.formlogo {
+        display: block;
+    }
+
+    .photo-heding {
+        margin-left: 0;
+        margin-top: 50px;
+    }
+
+    .flightBooking .smallScreen {
+        line-height: 40px !important;
+    }
+    .passengerCollaps .viewMore {
+    	width: 100%;
+    }
+
+    .passengerCollaps .viewMore {
+    	margin-bottom: 15px;
+    }
+}
+
+@media(max-width:575.98px) {
+
+    /* .col-md-5.tabssignup {
+        margin-top: -74px;
+    } */
+    .row.signLoginBox {
+        display: flex;
+        height: 100vh;
+        align-items: center;
+    }
+}
+
+@media(max-width:479.98px) {
+
+    .custom_nav li a {
+        line-height: 17px;
+    }
+
+    .tab .nav-tabs li a {
+        padding: 0 15px;
+    }
+
+    .tab {
+        padding: 19px 20px 20px;
+        box-sizing: border-box;
+        margin-top: 91px;
+    }
+
+    .AutomationCourse h1 {
+        color: #385723;
+        font-weight: 700;
+        font-size: 22px;
+    }
+
+    .AutomationCourse p {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:focus,
+    .tab .nav-tabs li.active a,
+    .tab .nav-tabs li.active a:focus,
+    .tab .nav-tabs li.active a:hover {
+        font-size: 19px;
+        font-weight: 500;
+    }
+
+    .tab .nav-tabs li a {
+        font-size: 19px;
+        font-weight: 500;
+    }
+
+    .tab {
+        padding: 19px 20px 20px;
+        box-sizing: border-box;
+    }
+
+    .from.row.terms p {
+        color: #3ab54b;
+        font-weight: 600;
+        text-align: center;
+        width: 100%;
+    }
+
+    .form-group.text-center button {
+        font-size: 16px;
+    }
+
+    .form-check.defaultCheck {
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    a.forgetPassword {
+        font-size: 16px;
+        margin-top: 8px;
+    }
+
+    .form-horizontal .form-control {
+        font-size: 16px;
+    }
+
+    label.radiochek {
+        font-size: 16px;
+    }
+
+    .form-check.hobby label {
+        font-weight: normal;
+        font-size: 16px;
+    }
+
+    .row.signLoginBox {
+        display: flex;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .tab {
+        padding: 19px 20px 20px;
+        box-sizing: border-box;
+        margin-top: 56px;
+    }
+}
+
+/* media query end */
+/* ombranch responsive css start */
+@media only screen and (max-width: 992px) {
+
+    .top_network_res {
+        margin-top: 10px;
+    }
+
+    .navbar_wrapper {
+        position: relative;
+    }
+
+    .navbar_wrapper .container {
+        max-width: 100%;
+    }
+
+    .navbar_wrapper .container .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .navbar_wrapper .container .row .nav_menu_wrapper {
+        position: absolute;
+        top: 44px;
+        z-index: 9;
+        width: 100%;
+        background-color: #fff;
+        left: 0;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .navbar_wrapper .navbar-toggler {
+        right: 15px;
+        position: absolute;
+        border: 0px solid transparent;
+    }
+
+    .navbar_wrapper .navbar-toggler:focus {
+        outline: none;
+    }
+
+    .navbar_wrapper .nav-input {
+        display: none;
+    }
+
+    .social_top_network li a i {
+        font-size: 14px;
+    }
+
+    .trans_btn {
+        padding: 3px 16px;
+    }
+
+    .custom_nav li a {
+        line-height: 30px;
+    }
+
+    .searchBar {
+        padding-bottom: 20px !important;
+        margin-left: 0 !important;
+    }
+
+    .form_nav {
+        /* width: 200px  !important; */
+    }
+
+    .navbar_wrapper .navbar-brand img {
+        max-width: 80%;
+    }
+
+    .navbar_wrapper .navbar-toggler .navbar-toggler-icon {
+        width: 1.3em;
+        height: 1.3em;
+    }
+
+    .missionBlock,
+    .vissionImgBlock {
+        padding-left: 15px;
+    }
+
+    .missionImgBlock,
+    .vissionBlock {
+        padding-right: 15px;
+    }
+
+    .contAddBlock {
+        padding: 10px 0 10px 0;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .contAddBlock::after {
+        display: none;
+    }
+
+    .contAddBlock p {
+        margin-bottom: 5px;
+    }
+
+    .res_border_remove {
+        border-bottom: 0px;
+    }
+
+    .btn_or_1 button {
+        margin-right: 10px !important;
+    }
+
+    .calendar_wrapper {
+        width: 100%;
+    }
+
+    .carousel-inner,
+    .carousel-item,
+    .carousel-item img {
+        height: 400px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .progressbar {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .dropdown-content {
+        top: 35px;
+    }
+
+    .modal .modal-body input {
+        /* height : 40px ; */
+    }
+
+    .modal-title.font28 {
+        font-size: 22px;
+    }
+
+    .check_email {
+        top: 9px;
+        width: 25px;
+        height: 25px;
+    }
+
+    .check_email i {
+        font-size: 14px;
+        top: 4px;
+    }
+
+    .sectionTitle {
+        font-size: 22px;
+    }
+
+    .sectionTitle::after {
+        width: 80px;
+    }
+
+    .sectionTitle a {
+        font-size: 14px;
+    }
+
+    .ctaegoryDetail p:first-of-type {
+        font-size: 18px;
+    }
+
+    .ctaegoryDetail p {
+        font-size: 14px;
+    }
+
+    .footer_grid_wrapper {
+        margin-top: 10px;
+    }
+
+    .footer_top {
+        text-align: center;
+    }
+
+    .listingBanner div.font60 {
+        font-size: 34px;
+    }
+
+    .grid_res {
+        flex-direction: column-reverse;
+    }
+
+    .missionImgBlock {
+        float: none;
+        margin: auto;
+    }
+
+    .vissionImgBlock {
+        float: none;
+        margin: auto;
+    }
+
+    .avatar-upload .avatar-edit {
+        right: -12px;
+        top: -5px;
+    }
+
+    .avatar-upload .avatar-preview {
+        width: 80px;
+        height: 82px;
+    }
+
+    .profileEditPart ul li {
+        font-size: 15px;
+    }
+
+    .profileEditPart .editBtn a {
+        font-size: 14px;
+    }
+
+    .acountTabing .nav-pills a {
+        font-size: 13px;
+    }
+
+    .deliverTime .font18,
+    .paymentMethod .font18,
+    .progressbar li,
+    .orderDetailCalender button.font16,
+    .orderStatus .font18,
+    .acountTabing .font16,
+    .cartProdDetail .font16,
+    .cartSchedule .font18,
+    .big-prize .font18,
+    .availableBlock fieldset label,
+    .notificationContent .font18,
+    .notificationContent .font16 {
+        font-size: 14px;
+    }
+
+    .pageTitle.font35 {
+        font-size: 30px;
+    }
+
+    .cartProdDetail {
+        border-right: 0px solid #cccccc;
+    }
+
+    .deliverTime .font20,
+    .paymentMethod .font20,
+    .wrappernotification1 .font18,
+    .wrappernotification1 .font22,
+    .cartProdDetail .font18,
+    .availableBlock .font18 {
+        font-size: 16px;
+    }
+
+    .delivery_sche .font16,
+    .delivery_sche b,
+    .label_weight_text.font14 {
+        font-size: 13px;
+    }
+
+    .allinone.close {
+        width: 25px;
+        height: 25px;
+    }
+
+    .icon_edit_manage {
+        top: 0px;
+        right: -10px;
+    }
+
+    .border_manage_cart.border-right {
+        border-right: 0px solid #fff;
+    }
+
+    .getintouch .font25 {
+        font-size: 20px;
+    }
+
+    .content-part .font22 {
+        font-size: 18px;
+    }
+
+    .notificationContent .font20 {
+        font-size: 18px;
+    }
+
+    .notificationBar {
+        flex-direction: column;
+    }
+
+    .notificationBar .imgBlock {
+        width: 40px;
+        height: 40px;
+    }
+
+    .notificationBar .closenoti {
+        top: 15px;
+    }
+
+    .notificationBar {
+        padding-top: 15px !important;
+    }
+
+    .deliverTime {
+        padding-left: 0px;
+    }
+
+    #loginSignupModal .modal-dialog {
+        margin: .5rem auto;
+        width: 95%;
+        padding: 0px 15px;
+    }
+
+    .modal_grid_inner h2 {
+        font-size: 18px;
+        margin-bottom: 1px;
+    }
+
+    .modal_flex_grid p {
+        font-size: 13px;
+    }
+
+    .res_acc {
+        top: 33px !important;
+    }
+
+    .cartProdDetail p {
+        margin-top: 12px;
+    }
+
+    .pro_display a {
+        font-size: 14px !important;
+    }
+
+    .pro_display {
+        left: -135%;
+    }
+
+    .acHolderImg {
+        min-width: 40px;
+        height: 40px;
+    }
+
+    .holderNameandMail {
+        margin-top: 2px;
+    }
+
+    #hwefaqaccordion .collapse div.pl-5.ml-2 {
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    #hwefaqaccordion i.trigger {
+        left: 90%;
+        margin-right: 0em;
+    }
+
+    #hwefaqaccordion i.trigger::before,
+    #hwefaqaccordion i.trigger::after {
+        width: 20px !important;
+    }
+
+    #hwefaqaccordion .panelhead a {
+        position: relative !important;
+        padding-right: 40px !important;
+    }
+
+    #hwefaqaccordion i.trigger {
+        position: absolute !important;
+        top: 0px !important;
+        right: 2px !important;
+    }
+
+    .carousel-inner,
+    .carousel-item,
+    .carousel-item img {
+        height: 260px;
+    }
+
+    .content-part .content-head .prodTitle {
+        font-size: 16px;
+        padding-top: 60px;
+    }
+
+    .variant-body .cartProdDetail {
+        padding-right: 0px !important;
+    }
+
+    .modal_form {
+        padding: 15px 20px;
+    }
+
+    .modal_form .variant-body .col-md-8 {
+        padding-right: 0px;
+    }
+
+    .modal_form .variant-body .col-md-8 .col-md-2 {
+        width: 0px;
+    }
+
+    .cartSchedule div.fontSemiBold {
+        padding-right: 15px;
+    }
+
+    .delivery_sche p {
+        padding-right: 15px;
+    }
+
+    .productVariant .cartProdDetail .col-md-2 {
+        width: 0px;
+    }
+
+    .productVariant .cartProdDetail {
+        padding-right: 0px;
+    }
+
+    .productVariant .col-md-8 {
+        padding-right: 0px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .res_sometime {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 498px) {
+    .acountTabing #v-pills-tab {
+        border: 0px solid #cccccc45;
+    }
+}
+
+/* ombranch responsive css end */
+
+
+
+@media(max-width:767.98px) {
+    .followImg {
+        justify-content: center;
+    }
+
+    h4.discount {
+        font-weight: 600;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .box-div {
+        padding: 15px;
+    }
+
+    .boxContent p {
+        font-size: 18px;
+    }
+
+    .why-learnROw h4 {
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .why-learnROww img {
+        width: 200;
+    }
+
+}
+
+@media(max-width:439.98px) {
+    .followImg {
+        display: flex;
+        margin-top: 10px;
+    }
+
+    .followImg img {
+        width: 90px;
+    }
+
+    .whyLearn {
+        padding: 10px 0px;
+    }
+
+    .why-learnROw p {
+        text-align: justify;
+        font-size: 14px;
+    }
+
+    .boxContent p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    h4.discount {
+        font-weight: 600;
+        font-size: 17px;
+        text-align: center;
+    }
+}
+
+/*======   cp    =========*/
+
+@media only screen and (max-width: 768px) {
+    .welcome .col-md-5 {
+        width: 50%;
+    }
+
+    .welcome .fliter_box_inner {
+        padding: 10px;
+    }
+
+    .welcome h3 {
+        font-size: 16px;
+    }
+
+    .welcome-heading {
+        font-size: 30px;
+    }
+
+    .explore-hotels .fliter_box_inner {
+        padding: 40px 20px;
+    }
+    
+    .prize {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .hotel-suites .row {
+        display: block;
+        margin: 0;
+    }
+    .hotel-suites {
+        border-right: 0;
+        margin-top: 15px;
+    }
+    .hotel-suites .reating {
+        margin: 0 !important;
+    }
+    .prize h2 {
+        font-weight: 400;
+        font-size: 24px;
+        margin: 0;
+    }
+    .prize span {
+        margin: 0 0 0 10px;
+        display: inline-block;
+    }
+    .prize p{
+        display: inline-block;
+    }
+    .prize .total-prize {
+        font-size: 22px;
+        display: block;
+        margin-top: 15px;
+    }
+    .listingProdGrid.hotel-filter-details {
+        margin: 0;
+    }
+    .category-breadcrumb a {
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+    .prize button{
+        margin-left: 0;
+    }
+    .mobile-space-none {
+        padding: 0;
+    }
+    .checkout-form .form-in.filters-results {
+        padding: 25px;
+    }
+    .explore-hotels .payments-option .fliter_box_inner {
+        padding: 20px 20px;
+        margin-bottom: 20px;
+    }
+    .checkout-prise h2 {
+        font-size: 24px;
+    }
+    .row.explore-hotels.mt-5 {
+        margin-left: 0px;
+    }
+    .booking-date .input-group i.calendar::before {
+    transform: scale(0.7);
+    background-position: -95px 0;
+    top: 9px;
+    left: 9px;
+    }
+    .booking-date .inout-control {
+        margin-bottom: -20px;
+    }
+    .my-booking.prize .total-prize {
+        margin: 0;
+    }
+    .my-booking.prize span {
+        margin: 0;
+    }
+    .my-booking.prize button {
+        display: inline-block;
+        width: 49%;
+    }
+    .explore-hotels.booking-date {
+        margin-left: -15px;
+    }
+    .couppon-code {
+        font-weight: 300;
+        margin-top: 20px;
+        font-size: 27px;
+    }
+    .seccess-box p {
+        font-size: 18px;
+        font-weight: 300;
+        margin-top: 20px;
+    }
+    .sucess-pop-button button {
+        display: inline-block;
+        padding: 7px 14px;
+        font-size: 16px;
+    }
+}
+@media (max-width: 1200px){ 
+.explore-hotels span.select2.select2-container.select2-container--default, .explore-hotels span.select2.select2-container.select2-container--default.select2-container--focus.select2-container--below.select2-container--open {
+    width: 79% !important;
+}
+}
